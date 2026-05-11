@@ -1,6 +1,6 @@
 # ExpNo 4 : Implement A* search algorithm for a Graph
-# Name: RITIKAA SV
-# Register Number: 212224060217
+# Name: Sudharsan S
+# Register Number: 212224060265
 # Aim:
 
 To ImplementA * Search algorithm for a Graph using Python 3.
